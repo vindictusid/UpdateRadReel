@@ -1,16 +1,10 @@
 {
-  "showDialog": true,
-  "appVersionCode": 2025070219,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
-  "updateButtonText": "Update",
-  "updateButtonLink": "https://whatsapp.com/channel/0029Vb6NY4v7NoZs4ADHnm0m",
-  "updateButtonGradientStartColor": "#1E88E5",
-  "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "Cancel",
-  "cancelClosesApp": true,
-  "cancelButtonGradientStartColor": "#1E88E5",
-  "cancelButtonGradientEndColor": "#64B5F6",
-  "textGradientStartColor": "#1E88E5",
-  "textGradientEndColor": "#64B5F6",
-  "dialogBackgroundColor": "#FFFFFF"
+  "credit": "MR. NoOB",
+  "show_dialog": true,
+  "title": "🚀 Update Available",
+  "subtitle": "Please update the mod application!",
+  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
+  "btn_update": "Update",
+  "btn_exit": "Cancel",
+  "link": "https://whatsapp.com/channel/0029Vb6NY4v7NoZs4ADHnm0m"
 }
