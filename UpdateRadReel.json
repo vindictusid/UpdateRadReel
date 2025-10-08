@@ -1,10 +1,8 @@
 {
-  "credit": "MR. NoOB",
-  "show_dialog": false,
-  "title": "🚀 Update Available",
-  "subtitle": "Please update the mod application!",
-  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
-  "btn_update": "Update",
-  "btn_exit": "Cancel",
-  "link": "https://whatsapp.com/channel/0029Vb6NY4v7NoZs4ADHnm0m"
+  "radreel": {
+    "version": "2.5.4",
+    "message": "<b>🚀 PEMBARUAN TERSEDIA</b><br><br><br><b>Apa Yang Baru?</b><br>• Peningkatan Kinerja<br>• Memperbaiki Bug Utama<br>• Desain Tampilan UI Aplikasi<br>• Keamanan Yg Ditingkatkan<br>• Optimasi Perfoma Baterai",
+    "link_download": "https://whatsapp.com/channel/0029Vb71vbsK0IBdYP23kx0y",
+    "version_code": "2.5.4"
+  }
 }
